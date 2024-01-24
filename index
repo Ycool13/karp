@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>karpie.pl</title>
+</head>
+<body>
+    <a href="https://pl.wikipedia.org/wiki/Karp">
+    <img src="/index/img/Каrp.jpg" width="500" height="300" title="karp(sazan)">
+    </a>
+    <img src="/index/img/karp2.jpeg" height="200" title="karp(lustrzeń,bezłuski)">
+    <h1>Karp (Cyprinus Carpio) jest to ryba słotkowodna żywiąca się larwami owadów, skorupiakami, mięczakami oraz glonami. Karp początkowo pojawił się na terenach trzeciorzędu i czwartorzędu w okolicach Morza Kaspijskiego i wschodniej Anatolii. Osiąga on 1m długości oraz masę ponad 30kg. Te ryby żyją na terenach płytkich, gęsto porośniętych roślinnością wodną. Trą się w maju i w czerwcu. Jest to bardzo popularna ryba gospodarcza ponieważ rozwodzi się ją na działkach ze stawami by czyściła glony oraz na hodowlach rybnych. Karp stanowi potrawę tradycyjną na stołach wigilijnych każdego roku.</h1>
+<button id="Przycisk">Przejdż do wikipedji</button>
+
+<script>
+    document.getElementById('Przycisk').addEventListener;'click', function(click) {    
+        window.location.href = 'https://pl.wikipedia.org/wiki/Karp'}
+</script>
+
+</body>
+</html> 
